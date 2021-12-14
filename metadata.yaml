@@ -1,0 +1,32 @@
+_repo: Lord-Lister-No-7-De-speelvorst-van-Monaco_66784
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Matull, Kurt
+    birthdate: 1872
+    gutenberg_agent_id: '40698'
+    url: http://www.gutenberg.org/2009/agents/40698
+    wikipedia: https://de.wikipedia.org/wiki/Kurt_Matull
+  - agent_name: Blankensee, Theo von
+    aliases:
+    - Blank, Matthias
+    - Blakensee, Theo
+    birthdate: 1881
+    deathdate: 1928
+    gutenberg_agent_id: '53456'
+    url: http://www.gutenberg.org/2009/agents/53456
+description: ''
+gutenberg_issued: '2021-11-21'
+identifiers:
+  gutenberg: '66784'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories -- Periodicals'
+- !lcsh 'Dime novels -- Periodicals'
+- !lcc 'PT'
+- GITenberg
+title: 'Lord Lister No. 7: De speelvorst van Monaco'
+url: http://www.gutenberg.org/ebooks/66784
